@@ -131,7 +131,7 @@
     "vue-server-renderer": "^2.6.10",
     "vue-template-compiler": "2.6.10",
     "vue-template-es2015-compiler": "^1.9.1",
-    "webpack": "4.31.0",
+    "webpack": "5.94.0",
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "3.3.1"
   },
